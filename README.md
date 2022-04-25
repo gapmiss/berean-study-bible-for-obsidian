@@ -2,7 +2,7 @@
 
 Berean Study Bible for [Obsidian](https://obsidian.md)
 
-![[screenshot-1.png]]
+![screenshot](resources/screenshot-1.png)
 
 > The Holy Bible, Berean Study Bible, BSB
 > Copyright &copy;2016, 2020 by Bible Hub
