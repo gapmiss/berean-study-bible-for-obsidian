@@ -87,12 +87,12 @@ And Ahaz rested with his fathers and was buried in the city of Jerusalem, but he
 
 ---
 
-The Holy Bible, Berean Study Bible, BSB
-Copyright ©2016, 2020 by Bible Hub
-[Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
-[Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)
+[[2 Chronicles 27]] | [[2 Chronicles]] | [[2 Chronicles 29]]
 
 ---
 
-[[2 Chronicles 27]] | [[2 Chronicles]] | [[2 Chronicles 29]]
+> The Holy Bible, Berean Study Bible, BSB
+> Copyright &copy;2016, 2020 by Bible Hub
+> [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
 

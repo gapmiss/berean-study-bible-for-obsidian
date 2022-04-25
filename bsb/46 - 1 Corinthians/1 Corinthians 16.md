@@ -78,12 +78,12 @@ My love be with all of you in Christ Jesus. Amen.
 
 ---
 
-The Holy Bible, Berean Study Bible, BSB
-Copyright ©2016, 2020 by Bible Hub
-[Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
-[Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)
+[[1 Corinthians 15]] | [[1 Corinthians]]
 
 ---
 
-[[1 Corinthians 15]] | [[1 Corinthians]]
+> The Holy Bible, Berean Study Bible, BSB
+> Copyright &copy;2016, 2020 by Bible Hub
+> [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
 

@@ -66,12 +66,12 @@ Blessed be God, who has not rejected my prayer or withheld from me His loving de
 
 ---
 
-The Holy Bible, Berean Study Bible, BSB
-Copyright ©2016, 2020 by Bible Hub
-[Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
-[Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)
+[[Psalms 65]] | [[Psalms]] | [[Psalms 67]]
 
 ---
 
-[[Psalms 65]] | [[Psalms]] | [[Psalms 67]]
+> The Holy Bible, Berean Study Bible, BSB
+> Copyright &copy;2016, 2020 by Bible Hub
+> [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
 

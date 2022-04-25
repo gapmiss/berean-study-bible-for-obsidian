@@ -30,12 +30,12 @@ who turned the rock into a pool, the flint into a fountain of water.
 
 ---
 
-The Holy Bible, Berean Study Bible, BSB
-Copyright ©2016, 2020 by Bible Hub
-[Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
-[Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)
+[[Psalms 113]] | [[Psalms]] | [[Psalms 115]]
 
 ---
 
-[[Psalms 113]] | [[Psalms]] | [[Psalms 115]]
+> The Holy Bible, Berean Study Bible, BSB
+> Copyright &copy;2016, 2020 by Bible Hub
+> [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
 

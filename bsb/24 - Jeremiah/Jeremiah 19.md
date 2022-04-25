@@ -51,12 +51,12 @@ Then Jeremiah returned from Topheth, where the LORD had sent him to prophesy, an
 
 ---
 
-The Holy Bible, Berean Study Bible, BSB
-Copyright ©2016, 2020 by Bible Hub
-[Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
-[Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)
+[[Jeremiah 18]] | [[Jeremiah]] | [[Jeremiah 20]]
 
 ---
 
-[[Jeremiah 18]] | [[Jeremiah]] | [[Jeremiah 20]]
+> The Holy Bible, Berean Study Bible, BSB
+> Copyright &copy;2016, 2020 by Bible Hub
+> [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
 

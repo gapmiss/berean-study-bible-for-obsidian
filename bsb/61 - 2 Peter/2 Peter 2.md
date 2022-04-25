@@ -72,12 +72,12 @@ Of them the proverbs are true: "A dog returns to its vomit," and, "A sow that is
 
 ---
 
-The Holy Bible, Berean Study Bible, BSB
-Copyright ©2016, 2020 by Bible Hub
-[Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
-[Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)
+[[2 Peter 1]] | [[2 Peter]] | [[2 Peter 3]]
 
 ---
 
-[[2 Peter 1]] | [[2 Peter]] | [[2 Peter 3]]
+> The Holy Bible, Berean Study Bible, BSB
+> Copyright &copy;2016, 2020 by Bible Hub
+> [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
 

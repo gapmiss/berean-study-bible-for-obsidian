@@ -66,12 +66,12 @@ Do not curse the king even in your thoughts, or curse the rich even in your bedr
 
 ---
 
-The Holy Bible, Berean Study Bible, BSB
-Copyright ©2016, 2020 by Bible Hub
-[Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
-[Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)
+[[Ecclesiastes 9]] | [[Ecclesiastes]] | [[Ecclesiastes 11]]
 
 ---
 
-[[Ecclesiastes 9]] | [[Ecclesiastes]] | [[Ecclesiastes 11]]
+> The Holy Bible, Berean Study Bible, BSB
+> Copyright &copy;2016, 2020 by Bible Hub
+> [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
 

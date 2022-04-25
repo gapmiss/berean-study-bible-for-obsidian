@@ -120,12 +120,12 @@ Like the numerous flocks for sacrifices at Jerusalem during her appointed feasts
 
 ---
 
-The Holy Bible, Berean Study Bible, BSB
-Copyright ©2016, 2020 by Bible Hub
-[Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
-[Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)
+[[Ezekiel 35]] | [[Ezekiel]] | [[Ezekiel 37]]
 
 ---
 
-[[Ezekiel 35]] | [[Ezekiel]] | [[Ezekiel 37]]
+> The Holy Bible, Berean Study Bible, BSB
+> Copyright &copy;2016, 2020 by Bible Hub
+> [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
 

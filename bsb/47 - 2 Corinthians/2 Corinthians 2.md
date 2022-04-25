@@ -57,12 +57,12 @@ For we are not like so many others, who peddle the word of God for profit. On th
 
 ---
 
-The Holy Bible, Berean Study Bible, BSB
-Copyright ©2016, 2020 by Bible Hub
-[Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
-[Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)
+[[2 Corinthians 1]] | [[2 Corinthians]] | [[2 Corinthians 3]]
 
 ---
 
-[[2 Corinthians 1]] | [[2 Corinthians]] | [[2 Corinthians 3]]
+> The Holy Bible, Berean Study Bible, BSB
+> Copyright &copy;2016, 2020 by Bible Hub
+> [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
 

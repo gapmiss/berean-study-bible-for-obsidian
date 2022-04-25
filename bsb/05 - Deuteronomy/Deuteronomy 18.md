@@ -72,12 +72,12 @@ When a prophet speaks in the name of the LORD and the message does not come to p
 
 ---
 
-The Holy Bible, Berean Study Bible, BSB
-Copyright ©2016, 2020 by Bible Hub
-[Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
-[Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)
+[[Deuteronomy 17]] | [[Deuteronomy]] | [[Deuteronomy 19]]
 
 ---
 
-[[Deuteronomy 17]] | [[Deuteronomy]] | [[Deuteronomy 19]]
+> The Holy Bible, Berean Study Bible, BSB
+> Copyright &copy;2016, 2020 by Bible Hub
+> [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
 

@@ -81,12 +81,12 @@ And if we are careful to observe every one of these commandments before the LORD
 
 ---
 
-The Holy Bible, Berean Study Bible, BSB
-Copyright ©2016, 2020 by Bible Hub
-[Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
-[Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)
+[[Deuteronomy 5]] | [[Deuteronomy]] | [[Deuteronomy 7]]
 
 ---
 
-[[Deuteronomy 5]] | [[Deuteronomy]] | [[Deuteronomy 7]]
+> The Holy Bible, Berean Study Bible, BSB
+> Copyright &copy;2016, 2020 by Bible Hub
+> [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
 

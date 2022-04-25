@@ -57,12 +57,12 @@ encourage your hearts and strengthen you in every good word and deed.
 
 ---
 
-The Holy Bible, Berean Study Bible, BSB
-Copyright ©2016, 2020 by Bible Hub
-[Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
-[Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)
+[[2 Thessalonians 1]] | [[2 Thessalonians]] | [[2 Thessalonians 3]]
 
 ---
 
-[[2 Thessalonians 1]] | [[2 Thessalonians]] | [[2 Thessalonians 3]]
+> The Holy Bible, Berean Study Bible, BSB
+> Copyright &copy;2016, 2020 by Bible Hub
+> [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
 

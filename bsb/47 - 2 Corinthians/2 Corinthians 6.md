@@ -60,12 +60,12 @@ And: "I will be a Father to you, and you will be My sons and daughters, says the
 
 ---
 
-The Holy Bible, Berean Study Bible, BSB
-Copyright ©2016, 2020 by Bible Hub
-[Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
-[Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)
+[[2 Corinthians 5]] | [[2 Corinthians]] | [[2 Corinthians 7]]
 
 ---
 
-[[2 Corinthians 5]] | [[2 Corinthians]] | [[2 Corinthians 7]]
+> The Holy Bible, Berean Study Bible, BSB
+> Copyright &copy;2016, 2020 by Bible Hub
+> [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
 

@@ -66,12 +66,12 @@ and that you may love the LORD your God, obey Him, and hold fast to Him. For He 
 
 ---
 
-The Holy Bible, Berean Study Bible, BSB
-Copyright ©2016, 2020 by Bible Hub
-[Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
-[Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)
+[[Deuteronomy 29]] | [[Deuteronomy]] | [[Deuteronomy 31]]
 
 ---
 
-[[Deuteronomy 29]] | [[Deuteronomy]] | [[Deuteronomy 31]]
+> The Holy Bible, Berean Study Bible, BSB
+> Copyright &copy;2016, 2020 by Bible Hub
+> [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
 

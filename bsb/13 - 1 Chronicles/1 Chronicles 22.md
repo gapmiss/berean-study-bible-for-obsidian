@@ -63,12 +63,12 @@ Now set your heart and soul to seek the LORD your God. Get started building the 
 
 ---
 
-The Holy Bible, Berean Study Bible, BSB
-Copyright ©2016, 2020 by Bible Hub
-[Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
-[Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)
+[[1 Chronicles 21]] | [[1 Chronicles]] | [[1 Chronicles 23]]
 
 ---
 
-[[1 Chronicles 21]] | [[1 Chronicles]] | [[1 Chronicles 23]]
+> The Holy Bible, Berean Study Bible, BSB
+> Copyright &copy;2016, 2020 by Bible Hub
+> [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
 

@@ -1,3 +1,62 @@
 # Ezekiel
 
-[[Holy Bible]] | [[Ezekiel 1]]
+[[Holy Bible]]
+
+---
+
+- [[Ezekiel 1]]
+- [[Ezekiel 2]]
+- [[Ezekiel 3]]
+- [[Ezekiel 4]]
+- [[Ezekiel 5]]
+- [[Ezekiel 6]]
+- [[Ezekiel 7]]
+- [[Ezekiel 8]]
+- [[Ezekiel 9]]
+- [[Ezekiel 10]]
+- [[Ezekiel 11]]
+- [[Ezekiel 12]]
+- [[Ezekiel 13]]
+- [[Ezekiel 14]]
+- [[Ezekiel 15]]
+- [[Ezekiel 16]]
+- [[Ezekiel 17]]
+- [[Ezekiel 18]]
+- [[Ezekiel 19]]
+- [[Ezekiel 20]]
+- [[Ezekiel 21]]
+- [[Ezekiel 22]]
+- [[Ezekiel 23]]
+- [[Ezekiel 24]]
+- [[Ezekiel 25]]
+- [[Ezekiel 26]]
+- [[Ezekiel 27]]
+- [[Ezekiel 28]]
+- [[Ezekiel 29]]
+- [[Ezekiel 30]]
+- [[Ezekiel 31]]
+- [[Ezekiel 32]]
+- [[Ezekiel 33]]
+- [[Ezekiel 34]]
+- [[Ezekiel 35]]
+- [[Ezekiel 36]]
+- [[Ezekiel 37]]
+- [[Ezekiel 38]]
+- [[Ezekiel 39]]
+- [[Ezekiel 40]]
+- [[Ezekiel 41]]
+- [[Ezekiel 42]]
+- [[Ezekiel 43]]
+- [[Ezekiel 44]]
+- [[Ezekiel 45]]
+- [[Ezekiel 46]]
+- [[Ezekiel 47]]
+- [[Ezekiel 48]]
+
+---
+
+> The Holy Bible, Berean Study Bible, BSB
+> Copyright &copy;2016, 2020 by Bible Hub
+> [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
+

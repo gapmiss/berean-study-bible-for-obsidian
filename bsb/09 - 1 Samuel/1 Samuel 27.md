@@ -42,12 +42,12 @@ So Achish trusted David, thinking, "Since he has made himself repugnant to his p
 
 ---
 
-The Holy Bible, Berean Study Bible, BSB
-Copyright ©2016, 2020 by Bible Hub
-[Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
-[Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)
+[[1 Samuel 26]] | [[1 Samuel]] | [[1 Samuel 28]]
 
 ---
 
-[[1 Samuel 26]] | [[1 Samuel]] | [[1 Samuel 28]]
+> The Holy Bible, Berean Study Bible, BSB
+> Copyright &copy;2016, 2020 by Bible Hub
+> [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
 

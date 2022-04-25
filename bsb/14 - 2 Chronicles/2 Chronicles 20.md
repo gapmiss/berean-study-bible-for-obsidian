@@ -117,12 +117,12 @@ Then Eliezer son of Dodavahu of Mareshah prophesied against Jehoshaphat, saying,
 
 ---
 
-The Holy Bible, Berean Study Bible, BSB
-Copyright ©2016, 2020 by Bible Hub
-[Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
-[Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)
+[[2 Chronicles 19]] | [[2 Chronicles]] | [[2 Chronicles 21]]
 
 ---
 
-[[2 Chronicles 19]] | [[2 Chronicles]] | [[2 Chronicles 21]]
+> The Holy Bible, Berean Study Bible, BSB
+> Copyright &copy;2016, 2020 by Bible Hub
+> [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
 

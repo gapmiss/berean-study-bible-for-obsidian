@@ -51,12 +51,12 @@ They also attacked the tents of the herdsmen and carried off many sheep and came
 
 ---
 
-The Holy Bible, Berean Study Bible, BSB
-Copyright ©2016, 2020 by Bible Hub
-[Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
-[Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)
+[[2 Chronicles 13]] | [[2 Chronicles]] | [[2 Chronicles 15]]
 
 ---
 
-[[2 Chronicles 13]] | [[2 Chronicles]] | [[2 Chronicles 15]]
+> The Holy Bible, Berean Study Bible, BSB
+> Copyright &copy;2016, 2020 by Bible Hub
+> [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
 

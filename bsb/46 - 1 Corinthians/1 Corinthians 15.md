@@ -180,12 +180,12 @@ Therefore, my beloved brothers, be steadfast and immovable. Always excel in the 
 
 ---
 
-The Holy Bible, Berean Study Bible, BSB
-Copyright ©2016, 2020 by Bible Hub
-[Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
-[Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)
+[[1 Corinthians 14]] | [[1 Corinthians]] | [[1 Corinthians 16]]
 
 ---
 
-[[1 Corinthians 14]] | [[1 Corinthians]] | [[1 Corinthians 16]]
+> The Holy Bible, Berean Study Bible, BSB
+> Copyright &copy;2016, 2020 by Bible Hub
+> [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
 

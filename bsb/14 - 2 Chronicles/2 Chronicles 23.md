@@ -69,12 +69,12 @@ and all the people of the land rejoiced. And the city was quiet, because Athalia
 
 ---
 
-The Holy Bible, Berean Study Bible, BSB
-Copyright ©2016, 2020 by Bible Hub
-[Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
-[Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)
+[[2 Chronicles 22]] | [[2 Chronicles]] | [[2 Chronicles 24]]
 
 ---
 
-[[2 Chronicles 22]] | [[2 Chronicles]] | [[2 Chronicles 24]]
+> The Holy Bible, Berean Study Bible, BSB
+> Copyright &copy;2016, 2020 by Bible Hub
+> [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
 

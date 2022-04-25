@@ -36,12 +36,12 @@ So banish sorrow from your heart, and cast off pain from your body, for youth an
 
 ---
 
-The Holy Bible, Berean Study Bible, BSB
-Copyright ©2016, 2020 by Bible Hub
-[Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
-[Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)
+[[Ecclesiastes 10]] | [[Ecclesiastes]] | [[Ecclesiastes 12]]
 
 ---
 
-[[Ecclesiastes 10]] | [[Ecclesiastes]] | [[Ecclesiastes 12]]
+> The Holy Bible, Berean Study Bible, BSB
+> Copyright &copy;2016, 2020 by Bible Hub
+> [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
 

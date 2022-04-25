@@ -45,12 +45,12 @@ And now these three remain: faith, hope, and love; but the greatest of these is 
 
 ---
 
-The Holy Bible, Berean Study Bible, BSB
-Copyright ©2016, 2020 by Bible Hub
-[Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
-[Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)
+[[1 Corinthians 12]] | [[1 Corinthians]] | [[1 Corinthians 14]]
 
 ---
 
-[[1 Corinthians 12]] | [[1 Corinthians]] | [[1 Corinthians 14]]
+> The Holy Bible, Berean Study Bible, BSB
+> Copyright &copy;2016, 2020 by Bible Hub
+> [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
 

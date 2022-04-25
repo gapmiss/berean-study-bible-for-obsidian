@@ -1,3 +1,50 @@
 # Numbers
 
-[[Holy Bible]] | [[Numbers 1]]
+[[Holy Bible]]
+
+---
+
+- [[Numbers 1]]
+- [[Numbers 2]]
+- [[Numbers 3]]
+- [[Numbers 4]]
+- [[Numbers 5]]
+- [[Numbers 6]]
+- [[Numbers 7]]
+- [[Numbers 8]]
+- [[Numbers 9]]
+- [[Numbers 10]]
+- [[Numbers 11]]
+- [[Numbers 12]]
+- [[Numbers 13]]
+- [[Numbers 14]]
+- [[Numbers 15]]
+- [[Numbers 16]]
+- [[Numbers 17]]
+- [[Numbers 18]]
+- [[Numbers 19]]
+- [[Numbers 20]]
+- [[Numbers 21]]
+- [[Numbers 22]]
+- [[Numbers 23]]
+- [[Numbers 24]]
+- [[Numbers 25]]
+- [[Numbers 26]]
+- [[Numbers 27]]
+- [[Numbers 28]]
+- [[Numbers 29]]
+- [[Numbers 30]]
+- [[Numbers 31]]
+- [[Numbers 32]]
+- [[Numbers 33]]
+- [[Numbers 34]]
+- [[Numbers 35]]
+- [[Numbers 36]]
+
+---
+
+> The Holy Bible, Berean Study Bible, BSB
+> Copyright &copy;2016, 2020 by Bible Hub
+> [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
+

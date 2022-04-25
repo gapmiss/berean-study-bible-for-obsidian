@@ -93,12 +93,12 @@ Only this have I found: I have discovered that God made men upright, but they ha
 
 ---
 
-The Holy Bible, Berean Study Bible, BSB
-Copyright ©2016, 2020 by Bible Hub
-[Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
-[Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)
+[[Ecclesiastes 6]] | [[Ecclesiastes]] | [[Ecclesiastes 8]]
 
 ---
 
-[[Ecclesiastes 6]] | [[Ecclesiastes]] | [[Ecclesiastes 8]]
+> The Holy Bible, Berean Study Bible, BSB
+> Copyright &copy;2016, 2020 by Bible Hub
+> [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
 

@@ -27,12 +27,12 @@ How can it rest when the LORD has commanded it? He has appointed it against Ashk
 
 ---
 
-The Holy Bible, Berean Study Bible, BSB
-Copyright ©2016, 2020 by Bible Hub
-[Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
-[Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)
+[[Jeremiah 46]] | [[Jeremiah]] | [[Jeremiah 48]]
 
 ---
 
-[[Jeremiah 46]] | [[Jeremiah]] | [[Jeremiah 48]]
+> The Holy Bible, Berean Study Bible, BSB
+> Copyright &copy;2016, 2020 by Bible Hub
+> [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
 

@@ -117,12 +117,12 @@ But you did not go near the land of the Ammonites, or the land along the banks o
 
 ---
 
-The Holy Bible, Berean Study Bible, BSB
-Copyright ©2016, 2020 by Bible Hub
-[Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
-[Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)
+[[Deuteronomy 1]] | [[Deuteronomy]] | [[Deuteronomy 3]]
 
 ---
 
-[[Deuteronomy 1]] | [[Deuteronomy]] | [[Deuteronomy 3]]
+> The Holy Bible, Berean Study Bible, BSB
+> Copyright &copy;2016, 2020 by Bible Hub
+> [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
 

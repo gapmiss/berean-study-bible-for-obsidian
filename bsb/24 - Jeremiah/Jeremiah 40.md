@@ -54,12 +54,12 @@ But Gedaliah son of Ahikam said to Johanan son of Kareah, "Do not do such a thin
 
 ---
 
-The Holy Bible, Berean Study Bible, BSB
-Copyright ©2016, 2020 by Bible Hub
-[Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
-[Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)
+[[Jeremiah 39]] | [[Jeremiah]] | [[Jeremiah 41]]
 
 ---
 
-[[Jeremiah 39]] | [[Jeremiah]] | [[Jeremiah 41]]
+> The Holy Bible, Berean Study Bible, BSB
+> Copyright &copy;2016, 2020 by Bible Hub
+> [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
 
