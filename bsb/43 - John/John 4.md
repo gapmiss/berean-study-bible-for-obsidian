@@ -175,5 +175,5 @@ This was now the second sign that Jesus performed after coming from Judea into G
 > The Holy Bible, Berean Study Bible, BSB
 > Copyright &copy;2016, 2020 by Bible Hub
 > [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
-> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)
 

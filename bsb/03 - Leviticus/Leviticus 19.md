@@ -124,5 +124,5 @@ You must keep all My statutes and all My ordinances and follow them. I am the LO
 > The Holy Bible, Berean Study Bible, BSB
 > Copyright &copy;2016, 2020 by Bible Hub
 > [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
-> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)
 

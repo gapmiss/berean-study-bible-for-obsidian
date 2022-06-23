@@ -88,5 +88,5 @@ In those days there was no king in Israel; everyone did what was right in his ow
 > The Holy Bible, Berean Study Bible, BSB
 > Copyright &copy;2016, 2020 by Bible Hub
 > [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
-> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)
 

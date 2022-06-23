@@ -28,5 +28,5 @@ I am poor and needy; hurry to me, O God. You are my help and my deliverer; O LOR
 > The Holy Bible, Berean Study Bible, BSB
 > Copyright &copy;2016, 2020 by Bible Hub
 > [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
-> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)
 

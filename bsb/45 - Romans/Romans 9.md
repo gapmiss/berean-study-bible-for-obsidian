@@ -112,5 +112,5 @@ as it is written: "See, I lay in Zion a stone of stumbling, and a rock of offens
 > The Holy Bible, Berean Study Bible, BSB
 > Copyright &copy;2016, 2020 by Bible Hub
 > [Used by Permission](https://berean.bible/terms.htm). All Rights Reserved Worldwide.
-> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)</small>
+> [Berean Study Bible for Obsidian](https://github.com/gapmiss/berean-study-bible-for-obsidian)
 
